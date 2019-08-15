@@ -1,0 +1,31 @@
+PODS:
+  - Expecta (1.0.6)
+  - Masonry (1.1.0)
+  - Specta (1.0.7)
+  - YKCornersView (0.1.0)
+
+DEPENDENCIES:
+  - Expecta
+  - Masonry (~> 1.1.0)
+  - Specta
+  - YKCornersView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - Masonry
+    - Specta
+
+EXTERNAL SOURCES:
+  YKCornersView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+  YKCornersView: 18bf2cae0ad51b273694e752c77483b212301589
+
+PODFILE CHECKSUM: fb19834e429e722d5d8e3f3c4979d0e1c53a461b
+
+COCOAPODS: 1.7.5

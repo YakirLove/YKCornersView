@@ -1,0 +1,15 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'YKCornersView_Example' do
+  pod 'YKCornersView', :path => '../'
+  pod 'Masonry', '~> 1.1.0'
+  
+  target 'YKCornersView_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+  end
+end

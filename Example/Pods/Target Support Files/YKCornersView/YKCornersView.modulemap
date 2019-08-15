@@ -1,0 +1,6 @@
+framework module YKCornersView {
+  umbrella header "YKCornersView-umbrella.h"
+
+  export *
+  module * { export * }
+}
