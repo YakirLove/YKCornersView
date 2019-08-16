@@ -44,7 +44,7 @@
     [twoView manualDrawing];
     
     
-    UIView *threeView = [[UIView alloc] init];
+    UIButton *threeView = [[UIButton alloc] init];
     [self.view addSubview:threeView];
     [threeView mas_makeConstraints:^(MASConstraintMaker *make) {
         make.top.mas_equalTo(300);
