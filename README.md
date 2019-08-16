@@ -74,6 +74,7 @@ make.height.mas_equalTo(40);
 oneView.radiusCorner(UIRectCornerTopLeft).radiusFloat(15).fillColor([UIColor redColor]).lineColor([UIColor blueColor]).lineWidth(0.5);
 [oneView manualDrawing];
 ```
+[效果图](https://github.com/YakirLove/YKCornersView/blob/master/2019-08-16-11-36-26.png)]
 
 ## Author
 
